@@ -57,13 +57,13 @@ const idade = 25; // Number
 const matriculaAtiva = true; //Boolean
 const tel = null // Null
 
-> Maior que
-<  Menor que
->= Maior ou igual 
-<= Menor ou igual 
-== Igual 
-!= Diferente 
-!== Estrtitamente diferente 
+// > Maior que
+// <  Menor que
+// >= Maior ou igual 
+// <= Menor ou igual 
+// == Igual 
+// != Diferente 
+// !== Estrtitamente diferente 
 
 let idade = 20;
 
