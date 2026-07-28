@@ -38,7 +38,7 @@ console.log("Olá, mundo");
 ```
 
 ## Resultado 
-![Resultado](imeage.png)
+![Resultado](image.png)
 
 ---
 ## Tecnologias
